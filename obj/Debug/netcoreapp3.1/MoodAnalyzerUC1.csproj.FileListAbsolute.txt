@@ -1,0 +1,14 @@
+C:\Users\Bahulya\source\repos\MoodAnalyzerUC1\bin\Debug\netcoreapp3.1\MoodAnalyzerUC1.exe
+C:\Users\Bahulya\source\repos\MoodAnalyzerUC1\bin\Debug\netcoreapp3.1\MoodAnalyzerUC1.deps.json
+C:\Users\Bahulya\source\repos\MoodAnalyzerUC1\bin\Debug\netcoreapp3.1\MoodAnalyzerUC1.runtimeconfig.json
+C:\Users\Bahulya\source\repos\MoodAnalyzerUC1\bin\Debug\netcoreapp3.1\MoodAnalyzerUC1.runtimeconfig.dev.json
+C:\Users\Bahulya\source\repos\MoodAnalyzerUC1\bin\Debug\netcoreapp3.1\MoodAnalyzerUC1.dll
+C:\Users\Bahulya\source\repos\MoodAnalyzerUC1\bin\Debug\netcoreapp3.1\MoodAnalyzerUC1.pdb
+C:\Users\Bahulya\source\repos\MoodAnalyzerUC1\obj\Debug\netcoreapp3.1\MoodAnalyzerUC1.csproj.AssemblyReference.cache
+C:\Users\Bahulya\source\repos\MoodAnalyzerUC1\obj\Debug\netcoreapp3.1\MoodAnalyzerUC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bahulya\source\repos\MoodAnalyzerUC1\obj\Debug\netcoreapp3.1\MoodAnalyzerUC1.AssemblyInfoInputs.cache
+C:\Users\Bahulya\source\repos\MoodAnalyzerUC1\obj\Debug\netcoreapp3.1\MoodAnalyzerUC1.AssemblyInfo.cs
+C:\Users\Bahulya\source\repos\MoodAnalyzerUC1\obj\Debug\netcoreapp3.1\MoodAnalyzerUC1.csproj.CoreCompileInputs.cache
+C:\Users\Bahulya\source\repos\MoodAnalyzerUC1\obj\Debug\netcoreapp3.1\MoodAnalyzerUC1.dll
+C:\Users\Bahulya\source\repos\MoodAnalyzerUC1\obj\Debug\netcoreapp3.1\MoodAnalyzerUC1.pdb
+C:\Users\Bahulya\source\repos\MoodAnalyzerUC1\obj\Debug\netcoreapp3.1\MoodAnalyzerUC1.genruntimeconfig.cache
